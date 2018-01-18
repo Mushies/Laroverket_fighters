@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LäroverketFighters", "LäroverketFighters\LäroverketFighters.csproj", "{D2398BE2-23BE-4AAC-A506-814738279141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for loop csharpskolan", "for loop csharpskolan\for loop csharpskolan.csproj", "{EE05A8AA-F29F-470D-A2A0-B8802F3CF2CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2398BE2-23BE-4AAC-A506-814738279141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2398BE2-23BE-4AAC-A506-814738279141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2398BE2-23BE-4AAC-A506-814738279141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2398BE2-23BE-4AAC-A506-814738279141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE05A8AA-F29F-470D-A2A0-B8802F3CF2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE05A8AA-F29F-470D-A2A0-B8802F3CF2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE05A8AA-F29F-470D-A2A0-B8802F3CF2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE05A8AA-F29F-470D-A2A0-B8802F3CF2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {259B70AB-F33E-41DA-80C2-4C27AD9A1786}
+	EndGlobalSection
+EndGlobal
